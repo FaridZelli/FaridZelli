@@ -11,7 +11,7 @@
 ### My favourite personal projects are:
 - [Toggley](https://addons.mozilla.org/en-US/firefox/addon/toggley/) - a Light/Dark mode toggle button for Firefox   
 - [Nilesoft Shell Presets](https://github.com/FaridZelli/Nilesoft-Shell-Presets) - for Windows 10 and 11   
-- [ZINHAR SlickView](https://www.getmusicbee.com/addons/theater-mode/476/zinhar-slickview/) - an awesome Theater Mode Skin for [MusicBee](https://getmusicbee.com/)
+- [ZINHAR SlickView](https://www.getmusicbee.com/addons/theater-mode/476/zinhar-slickview/) - an awesome Theater Mode skin for [MusicBee](https://getmusicbee.com/)
 - [BetterPersianLayouts](https://github.com/FaridZelli/BetterPersianLayouts) Custom Persian keyboard layouts for Windows and Linux   
 - [ISW Modern](https://github.com/FaridZelli/ISW-Modern) - Linux fan control utility for MSI Laptops (indefinitely on hold)
 
