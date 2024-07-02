@@ -1,9 +1,7 @@
 # Farid Zellipour
 
-🐲 Open-source software advocate, music lover and audio nerd   
-🦚 Terrible artist, loves art   
-👻 I'm not a ghost! My DMs are always open on [Telegram](https://t.me/FaridZelli) and [Matrix](https://matrix.to/#/@zinhar:matrix.im)   
-🍃 You can also reach out to me at faridzelli@gmail.com
+🦚 Source-first software ([SFS](https://www.futo.org/about/futo-statement-on-opensource/)) advocate, art lover and audio nerd   
+📨 You can reach out to me at faridzelli@gmail.com
 
 ## I'm currently working on:
 - 🥀 **Rudaba music player** (TBA)
