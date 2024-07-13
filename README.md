@@ -1,16 +1,16 @@
-## Hi there 👋
+# Farid Zellipour
 
-<!--
-**FaridZelli/FaridZelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦚 Source-first software ([SFS](https://www.futo.org/about/futo-statement-on-opensource/)) advocate, art lover and audio nerd   
+📨 You can reach out to me at faridzelli@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Check out:
+### 📚️ [Linux Scripts](https://github.com/FaridZelli/LinuxScripts)
+- My installation and setup scripts for various Linux distributions
+### 🦊 [Toggley](https://addons.mozilla.org/en-US/firefox/addon/toggley/)
+- A Light/Dark mode toggle button for Firefox
+### ✨ [Nilesoft Shell Presets](https://github.com/FaridZelli/Nilesoft-Shell-Presets)
+- Nicer context menus for Windows 10 and 11
+### 🎻 [ZINHAR SlickView](https://www.getmusicbee.com/addons/theater-mode/476/zinhar-slickview/)
+- An awesome Theater Mode skin for [MusicBee](https://getmusicbee.com/)
+### 🪭 [ISW Modern](https://github.com/FaridZelli/ISW-Modern)
+- Linux fan control utility for MSI Laptops (indefinitely on hold)
