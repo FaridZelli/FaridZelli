@@ -1,6 +1,6 @@
 # Farid Zellipour
 
-🦚 Source-first software ([SFS](https://www.futo.org/about/futo-statement-on-opensource/)) advocate, art lover and audio nerd   
+🦚 [Source first software](https://sourcefirst.com/) advocate, hobbyist developer and audio nerd  
 📨 You can reach out to me at faridzelli@gmail.com or faridzelli@proton.me
 
 ## Check out:
