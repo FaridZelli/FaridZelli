@@ -12,5 +12,7 @@
 - Nicer context menus for Windows 10 and 11
 ### 🎻 [ZINHAR SlickView](https://www.getmusicbee.com/addons/theater-mode/476/zinhar-slickview/)
 - An awesome Theater Mode skin for [MusicBee](https://getmusicbee.com/)
+### 🏁 [CarX Street ZINHAR ReShade](https://github.com/FaridZelli/CarX-Street-ReShade)
+- ReShade preset for CarX Street
 ### 🪭 [ISW Modern](https://github.com/FaridZelli/ISW-Modern)
 - Linux fan control utility for MSI Laptops (indefinitely on hold)
