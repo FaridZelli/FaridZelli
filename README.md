@@ -3,6 +3,9 @@
 🦚 [Source first software](https://sourcefirst.com/) advocate, hobbyist developer and audio nerd  
 📨 You can reach out to me at faridzelli@gmail.com or faridzelli@proton.me
 
+## My personal website:
+🌐 [faridzelli.com](https://faridzelli.com/)
+
 ## Check out:
 ### 📚️ [Linux Scripts](https://github.com/FaridZelli/LinuxScripts)
 - My installation and setup scripts for various Linux distributions
