@@ -1,6 +1,6 @@
 # Farid Zellipour
 
-🦚 [Source first software](https://sourcefirst.com/) advocate, hobbyist developer and audio nerd  
+🦚 [Source first](https://sourcefirst.com/) and [open source](https://opensource.org/osd) software advocate, hobbyist developer and audio nerd.  
 📨 You can reach out to me at faridzelli@gmail.com or faridzelli@proton.me
 
 ## Check out:
