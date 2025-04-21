@@ -5,8 +5,8 @@
 
 ## Check out:
 ### 📚️ [Linux Scripts](https://github.com/FaridZelli/LinuxScripts)
-- My installation and setup scripts for various Linux distributions
+- Post-install scripts for various Linux distributions
 ### 🦊 [Toggley](https://addons.mozilla.org/en-US/firefox/addon/toggley/)
 - A Light/Dark mode toggle button for Firefox
 ### 🐝 [ZINHAR SlickView](https://www.getmusicbee.com/addons/theater-mode/476/zinhar-slickview/)
-- An awesome Theater Mode skin for [MusicBee](https://getmusicbee.com/)
+- An awesome theater mode skin for [MusicBee](https://getmusicbee.com/)
