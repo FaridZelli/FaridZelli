@@ -9,8 +9,11 @@
 Post-install scripts for various Linux distributions
 - 🌍 [Shadowsocks Quick Deployment](https://github.com/FaridZelli/ShadowsocksQuickDeployment)  
 Fast, no-nonsense Shadowsocks Rust installer
+### Utilities
 - 💻 [ISW Modern](https://github.com/FaridZelli/ISW-Modern)  
 Fan control service for MSI Laptops on Linux
+- 🪶 [Better Persian Layouts](https://github.com/FaridZelli/BetterPersianLayouts)  
+Improved Persian (فارسی) keyboard layouts for Windows and Linux
 ### Browser add-ons
 - 🦊 [Toggley](https://addons.mozilla.org/en-US/firefox/addon/toggley/)  
 A Light/Dark mode toggle button for Firefox
