@@ -1,9 +1,7 @@
-# Farid Zellipour
-
 🦚 [Source first](https://sourcefirst.com/) and [open source](https://opensource.org/osd) software advocate, hobbyist developer.  
 📨 You can reach out to me at faridzelli@gmail.com or faridzelli@proton.me
 
-## Index
+# Index
 ### Scripts
 - 📚️ [Linux Scripts](https://github.com/FaridZelli/LinuxScripts)  
 Post-install scripts for various Linux distributions
@@ -28,7 +26,7 @@ A subtle ReShade preset for CarX Street
 Custom firmware for the Transcend MP870 media player
 - 📸 [BSG for Mi 10T / 10T Pro](https://xdaforums.com/t/gcam-xml-zinhar-bsg-for-mi-10t-10t-pro.4516149/)  
 BSG 8.1 Google Camera port XML for Apollo / ApolloPro
-## Spotlight
+# Spotlight
 ### Digital Awareness
 - 📵 [Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 - 🔒 [Privacy Guides](https://www.privacyguides.org/en/)
