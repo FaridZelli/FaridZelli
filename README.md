@@ -30,7 +30,7 @@ BSG 8.1 Google Camera port XML for Apollo / Apollo Pro
 BSG 9.3 Google Camera port XML for Asteroids Pro
 # Spotlight
 ### Digital Awareness
-- 📵 [Bootloader Unlock: Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
+- 📵 [Bootloader Unlock: Wall of Shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
 - 🔒 [Privacy Guides](https://www.privacyguides.org/en/)
 ### Blocklists
 - [EasyList](https://github.com/easylist/easylist)
