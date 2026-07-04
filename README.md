@@ -31,8 +31,10 @@ BSG 9.3 Google Camera port XML for Asteroids Pro
 # Spotlight
 ### Digital Awareness
 - 📵 [Bootloader Unlock: Wall of Shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
+- 🪺 [FMHY](https://fmhy.net/)
 - 🔒 [Privacy Guides](https://www.privacyguides.org/en/)
 ### Blocklists
+- [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters)
 - [EasyList](https://github.com/easylist/easylist)
 - [Hagezi](https://github.com/hagezi/dns-blocklists)
 - [Steven Black](https://github.com/StevenBlack/hosts)
