@@ -22,8 +22,6 @@ An awesome theater mode skin for MusicBee
 Modern style presets for Nilesoft Shell
 - 🌇 [CarX Street ReShade](https://github.com/FaridZelli/CarX-Street-ReShade)  
 A subtle ReShade preset for CarX Street
-- 📀 [Transcend MP870 Firmware](https://github.com/FaridZelli/Transcend-ZINHAR)  
-Custom firmware for the Transcend MP870 media player
 - 📸 [BSG for Mi 10T / 10T Pro](https://xdaforums.com/t/gcam-xml-zinhar-bsg-for-mi-10t-10t-pro.4516149/)  
 BSG 8.1 Google Camera port XML for Apollo / Apollo Pro
 - 📸 [BSG for Nothing Phone (3a) Pro](https://xdaforums.com/t/gcam-xml-noise-models-zinhar-bsg-for-nothing-phone-3a-pro.4761475/)  
