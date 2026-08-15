@@ -18,6 +18,8 @@ A Light/Dark mode toggle button for Firefox
 ### Themes & Mods
 - 🐝 [ZINHAR SlickView](https://www.getmusicbee.com/addons/theater-mode/476/zinhar-slickview/)  
 An awesome theater mode skin for MusicBee
+- 🦉 [NightOwl Compressor](https://github.com/FaridZelli/EasyEffects-NightOwl-Compressor)  
+Quiet dialogue lift compressor for Easy Effects
 - 🪔 [Nilesoft Shell Presets](https://github.com/FaridZelli/Nilesoft-Shell-Presets)  
 Modern style presets for Nilesoft Shell
 - 🌇 [CarX Street ReShade](https://github.com/FaridZelli/CarX-Street-ReShade)  
