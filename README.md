@@ -15,6 +15,8 @@ Improved Persian (فارسی) keyboard layouts for Windows and Linux
 ### Browser add-ons
 - 🦊 [Toggley](https://addons.mozilla.org/en-US/firefox/addon/toggley/)  
 A Light/Dark mode toggle button for Firefox
+- 📽️ [Fill Screen Anywhere](https://addons.mozilla.org/en-US/firefox/addon/fillscreen/)  
+Zoom into videos on almost any website
 ### Themes & Mods
 - 🐝 [ZINHAR SlickView](https://www.getmusicbee.com/addons/theater-mode/476/zinhar-slickview/)  
 An awesome theater mode skin for MusicBee
