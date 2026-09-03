@@ -39,4 +39,4 @@ BSG 9.3 Google Camera port XML for Asteroids Pro
 - [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters)
 - [EasyList](https://github.com/easylist/easylist)
 - [Hagezi](https://github.com/hagezi/dns-blocklists)
-- [Steven Black](https://github.com/StevenBlack/hosts)
+- [Stevo's AI Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist/)
