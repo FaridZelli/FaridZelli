@@ -6,7 +6,7 @@
 - 📚️ [Linux Scripts](https://github.com/FaridZelli/LinuxScripts)  
 Post-install scripts for various Linux distributions
 - 📜 [My Scripts](https://github.com/FaridZelli/MyScripts)  
-Collection of scripts to automate niche tasks
+Collection of automation scripts
 - 🌍 [Shadowsocks Quick Deployment](https://github.com/FaridZelli/ShadowsocksQuickDeployment)  
 Fast, no-nonsense Shadowsocks Rust installer
 ### Utilities
