@@ -3,9 +3,9 @@
 
 # Index
 ### Browser add-ons
-- 📽️ [Fill Screen Anywhere](https://addons.mozilla.org/en-US/firefox/addon/fillscreen/)  
+- 📽️ [Fill Screen Anywhere](https://github.com/FaridZelli/FillScreenAnywhere)  
 Zoom into videos on almost any website
-- 🦊 [Toggley](https://addons.mozilla.org/en-US/firefox/addon/toggley/)  
+- 🦊 [Toggley](https://github.com/FaridZelli/Toggley)  
 A Light/Dark mode toggle button for Firefox
 ### Scripts
 - 📚️ [Linux Scripts](https://github.com/FaridZelli/LinuxScripts)  
@@ -19,7 +19,7 @@ Fast, no-nonsense Shadowsocks Rust installer
 BSG 8.1 Google Camera port XML for Apollo / Apollo Pro
 - 📸 [BSG for Nothing Phone (3a) Pro](https://xdaforums.com/t/gcam-xml-noise-models-zinhar-bsg-for-nothing-phone-3a-pro.4761475/)  
 BSG 9.3 Google Camera port XML for Asteroids Pro
-- 🌇 [CarX Street ReShade](https://github.com/FaridZelli/CarX-Street-ReShade)  
+- 🌇 [CarX Street ZINHAR ReShade](https://github.com/FaridZelli/CarX-Street-ReShade)  
 A subtle ReShade preset for CarX Street
 - 🦉 [NightOwl Compressor](https://github.com/FaridZelli/EasyEffects-NightOwl-Compressor)  
 Quiet dialogue lift compressor for Easy Effects
