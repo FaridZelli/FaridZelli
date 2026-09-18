@@ -16,9 +16,9 @@ Collection of automation scripts
 Fast, no-nonsense Shadowsocks Rust installer
 ### Themes & Mods
 - 📸 [BSG for Nothing Phone (3a) Pro](https://xdaforums.com/t/gcam-xml-noise-models-zinhar-bsg-for-nothing-phone-3a-pro.4761475/)  
-BSG Google Camera port XML for Asteroids
-- 📸 [BSG for Xiaomi Mi 10T / 10T Pro](https://xdaforums.com/t/gcam-xml-zinhar-bsg-for-mi-10t-10t-pro.4516149/)  
-BSG Google Camera port XML for Apollo
+BSG 9.4 Google Camera port XML for Asteroids
+- 📸 [BSG for Xiaomi Mi 10T / 10T Pro](https://xdaforums.com/t/gcam-xml-zinhar-bsg-for-xiaomi-mi-10t-10t-pro.4516149/)  
+BSG 8.1 Google Camera port XML for Apollo
 - 🌇 [CarX Street ZINHAR ReShade](https://github.com/FaridZelli/CarX-Street-ReShade)  
 A subtle ReShade preset for CarX Street
 - 🦉 [NightOwl Compressor](https://github.com/FaridZelli/EasyEffects-NightOwl-Compressor)  
