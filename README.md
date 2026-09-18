@@ -14,7 +14,7 @@ Post-install scripts for various Linux distributions
 Collection of automation scripts
 - 🌍 [Shadowsocks Quick Deployment](https://github.com/FaridZelli/ShadowsocksQuickDeployment)  
 Fast, no-nonsense Shadowsocks Rust installer
-### Themes & Mods
+### Themes & mods
 - 📸 [BSG for Nothing Phone (3a) Pro](https://xdaforums.com/t/gcam-xml-noise-models-zinhar-bsg-for-nothing-phone-3a-pro.4761475/)  
 BSG 9.4 Google Camera port XML for Asteroids
 - 📸 [BSG for Xiaomi Mi 10T / 10T Pro](https://xdaforums.com/t/gcam-xml-zinhar-bsg-for-xiaomi-mi-10t-10t-pro.4516149/)  
@@ -38,7 +38,7 @@ Fan control service for MSI Laptops on Linux
 - [EasyList](https://github.com/easylist/easylist)
 - [Hagezi](https://github.com/hagezi/dns-blocklists)
 - [Stevo's AI Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist/)
-### Digital Awareness
+### Digital awareness
 - 📵 [Bootloader Unlock: Wall of Shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
 - 🪺 [FMHY](https://fmhy.net/)
 - 🔒 [Privacy Guides](https://www.privacyguides.org/en/)
