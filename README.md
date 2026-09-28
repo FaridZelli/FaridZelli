@@ -1,16 +1,40 @@
-## Hi there 👋
+🦚 [Source first](https://sourcefirst.com/) and [open source](https://opensource.org/osd) software advocate, hobbyist developer.  
+📨 You can reach out to me at faridzelli@gmail.com or faridzelli@proton.me
 
-<!--
-**FaridZelli/FaridZelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Index
+### Browser add-ons
+- 📽️ [Fill Screen Anywhere](https://github.com/FaridZelli/FillScreenAnywhere)  
+Zoom into videos on almost any website
+- 🦊 [Toggley](https://github.com/FaridZelli/Toggley)  
+A Light/Dark mode toggle button for Firefox
+### Scripts
+- 📚️ [Linux Scripts](https://github.com/FaridZelli/LinuxScripts)  
+Post-install scripts for various Linux distributions
+- 📜 [My Scripts](https://github.com/FaridZelli/MyScripts)  
+Collection of automation scripts
+- 🌍 [Shadowsocks Quick Deployment](https://github.com/FaridZelli/ShadowsocksQuickDeployment)  
+Fast, no-nonsense Shadowsocks Rust installer
+### Themes & mods
+- 🌇 [CarX Street ZINHAR ReShade](https://github.com/FaridZelli/CarX-Street-ReShade)  
+A subtle ReShade preset for CarX Street
+- 🦉 [NightOwl Compressor](https://github.com/FaridZelli/EasyEffects-NightOwl-Compressor)  
+Quiet dialogue lift compressor for Easy Effects
+- 🪔 [Nilesoft Shell Presets](https://github.com/FaridZelli/Nilesoft-Shell-Presets)  
+Modern style presets for Nilesoft Shell
+- 🐝 [ZINHAR SlickView](https://github.com/FaridZelli/MusicBee-ZINHAR)  
+An awesome theater mode skin for MusicBee
+### Utilities
+- 🪶 [Better Persian Layouts](https://github.com/FaridZelli/BetterPersianLayouts)  
+Improved Persian (فارسی) keyboard layouts for Windows and Linux
+- 💻 [ISW Modern](https://github.com/FaridZelli/ISW-Modern)  
+Fan control service for MSI Laptops on Linux
+# Spotlight
+### Blocklists
+- [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters)
+- [EasyList](https://github.com/easylist/easylist)
+- [Hagezi](https://github.com/hagezi/dns-blocklists)
+- [Stevo's AI Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist/)
+### Digital awareness
+- 📵 [Bootloader Unlock: Wall of Shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
+- 🪺 [FMHY](https://fmhy.net/)
+- 🔒 [Privacy Guides](https://www.privacyguides.org/en/)
