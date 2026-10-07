@@ -3,7 +3,7 @@
 
 # Index
 ### Browser add-ons
-- 📽️ [Fill Screen Anywhere](https://github.com/FaridZelli/FillScreenAnywhere)  
+- 🎥 [Fill Screen Anywhere](https://github.com/FaridZelli/FillScreenAnywhere)  
 Zoom into videos on almost any website
 - 🦊 [Toggley](https://github.com/FaridZelli/Toggley)  
 A Light/Dark mode toggle button for Firefox
