@@ -34,6 +34,7 @@ Fan control service for MSI Laptops on Linux
 - [EasyList](https://github.com/easylist/easylist)
 - [Hagezi](https://github.com/hagezi/dns-blocklists)
 - [Stevo's AI Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist/)
+- [URLhaus](https://gitlab.com/malware-filter/urlhaus-filter)
 ### Digital awareness
 - 📵 [Bootloader Unlock: Wall of Shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
 - 🪺 [FMHY](https://fmhy.net/)
