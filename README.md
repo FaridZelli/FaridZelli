@@ -39,3 +39,18 @@ Fan control service for MSI Laptops on Linux
 - 📵 [Bootloader Unlock: Wall of Shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
 - 🪺 [FMHY](https://fmhy.net/)
 - 🔒 [Privacy Guides](https://www.privacyguides.org/en/)
+
+# Security
+OpenPGP-encrypted and signed communication is preferred.
+> [!NOTE]
+> Before trusting a key, confirm that its fingerprint matches the one listed below.
+### Primary
+`faridzelli@gmail.com` | [Public key](https://keys.openpgp.org/search?q=faridzelli%40gmail.com)  
+```
+F230A89C667D53F66ABA33C0C45AD5C933D4A7CC
+```
+### Secondary
+`faridzelli@proton.me` | [Public key](https://keys.openpgp.org/search?q=faridzelli%40proton.me)  
+```
+09F3F3A4D30CBBFE0EE3D4B0DE081CF58A5C7037
+```
