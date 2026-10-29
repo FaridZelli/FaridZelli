@@ -40,7 +40,7 @@ Fan control service for MSI Laptops on Linux
 - 🪺 [FMHY](https://fmhy.net/)
 - 🔒 [Privacy Guides](https://www.privacyguides.org/en/)
 
-# Security
+# Encryption & Digital Signatures
 OpenPGP-encrypted and signed communication is preferred.
 > [!NOTE]
 > Before trusting a key, confirm that its fingerprint matches the one listed below.
