@@ -22,7 +22,7 @@ Quiet dialogue lift compressor for Easy Effects
 - 🪔 [Nilesoft Shell Presets](https://github.com/FaridZelli/Nilesoft-Shell-Presets)  
 Modern style presets for Nilesoft Shell
 - 📸 [ZINHAR BSG Asteroids](https://github.com/FaridZelli/GCam-Asteroids)  
-Google Camera XML for the Nothing Phone (3a) Pro
+GCam XML for the Nothing Phone (3a) Pro
 - 🐝 [ZINHAR SlickView](https://github.com/FaridZelli/MusicBee-ZINHAR)  
 An awesome theater mode skin for MusicBee
 ### Utilities
