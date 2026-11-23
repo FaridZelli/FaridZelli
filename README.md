@@ -1,4 +1,5 @@
 🦚 [Source first](https://sourcefirst.com/) and [open source](https://opensource.org/osd) software advocate, hobbyist developer.  
+💡 My guides and tutorials are available on [GitHub Gist](https://gist.github.com/FaridZelli).  
 📨 You can reach out to me at faridzelli@gmail.com or faridzelli@proton.me
 
 # Index
